@@ -1,6 +1,4 @@
-### Hi there 👋
-<div>
-<h1> <!--
+### 
 **Olá, sou Paula Suzart!
 
 
@@ -12,9 +10,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Javascript
 - 😄 Pronouns: ... she/ her
 - ⚡ Fun fact: ... Coffin meme
-
-</h1>
-</div>
 
 -->
 
